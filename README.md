@@ -1,69 +1,106 @@
-<h1 align="center">Hey👋, I'm Jerald Rohith S</h1>
-<h3 align="center">AI & Data Science Student | Future ML Engineer | Building Smart Solutions 🚀</h3>
+<h1 align="center">Hi 👋, I'm Jerald Rohith</h1>
 
 <p align="center">
-Passionate about Artificial Intelligence, Data Science, and creating real-world projects with code 💻
+  <strong>AI & Data Science Student • Full Stack Developer • Building with AI</strong>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3500&pause=1000&center=true&vCenter=true&width=650&lines=Artificial+Intelligence;Full+Stack+Development;Always+Learning;Building+Projects+That+Matter" />
 </p>
 
 ---
 
-## 🚀 About Me
-- 🎓 AI & Data Science Student  
-- 🤖 Interested in Machine Learning, Deep Learning & Analytics  
-- 💻 Learning Python, SQL, Data Visualization & AI Tools  
-- 🌱 Currently improving coding & problem-solving skills  
-- 🎯 Goal: Become a globally successful AI Engineer  
-- ⚡ Fun fact: I love innovation, cars & success mindset
+## 👨‍💻 About Me
+
+🎓 B.Tech in Artificial Intelligence & Data Science
+
+💻 Passionate about Artificial Intelligence, Full Stack Development, and Software Engineering
+
+🚀 Currently building projects under **JERIX AI**
+
+🌱 Learning Machine Learning, React, Django, and Cloud Technologies
+
+🤝 Always open to learning, collaborating, and building impactful software.
 
 ---
 
-## 🛠️ Skills & Tools
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
+## 🛠 Tech Stack
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=python"/>
+
+<img src="https://skillicons.dev/icons?i=java"/>
+
+<img src="https://skillicons.dev/icons?i=html"/>
+
+<img src="https://skillicons.dev/icons?i=css"/>
+
+<img src="https://skillicons.dev/icons?i=javascript"/>
+
+<img src="https://skillicons.dev/icons?i=react"/>
+
+<img src="https://skillicons.dev/icons?i=nodejs"/>
+
+<img src="https://skillicons.dev/icons?i=django"/>
+
+<img src="https://skillicons.dev/icons?i=mysql"/>
+
+<img src="https://skillicons.dev/icons?i=git"/>
+
+<img src="https://skillicons.dev/icons?i=github"/>
+
+<img src="https://skillicons.dev/icons?i=vscode"/>
+
+</p>
 
 ---
 
-## 📚 Currently Working On
-- 🤖 Machine Learning Projects  
-- 📊 Data Analysis & Dashboards  
-- 💡 Building AI-based Apps  
-- 🚀 Improving Coding Skills Daily
+## 🚀 Current Focus
 
----
-## 🧠 Currently Learning
-Machine Learning, SQL, Power BI, Deep Learning
-
----
-
-
-## 🏆 Goals for 2026
-- ✅ Build 10+ AI/Data Science Projects  
-- ✅ Master Python & SQL  
-- ✅ Learn Machine Learning Deeply  
-- ✅ Create Strong Portfolio  
-- ✅ Get Internship / Freelance Opportunities
-- ✅ Strong LinkedIn Network
+- 🤖 Artificial Intelligence
+- 🌐 Full Stack Development
+- 📚 Open Source
+- ☁️ Cloud Computing
+- 💡 Building practical software projects
 
 ---
 
-## 📊 GitHub Stats
+## 📌 Featured Projects
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=JeraldRohithS&show_icons=true&theme=tokyonight&hide_border=false&rank_icon=github&border_radius=15)
-
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JeraldRohithS&layout=compact&theme=tokyonight&langs_count=8&card_width=700&border_radius=15)
-
----
-
-## 📫 Connect With Me
-- LinkedIn: (https://www.linkedin.com/in/jeraldrohith8/)
-- Email: jeraldrohith8@gmail.com  
+| Project | Description |
+|---------|-------------|
+| 🤖 JERIX AI | AI-powered applications and experiments |
+| 🌐 Portfolio Website | Personal portfolio showcasing projects |
+| 💻 Full Stack Projects | Modern web applications |
+| 🧠 AI Experiments | Machine Learning & Generative AI projects |
 
 ---
 
-## 💭 Quote I Live By
-"Data drives decisions. Discipline drives success."
+## 🎯 2026 Goals
+
+- Build real-world AI applications
+- Contribute consistently to GitHub
+- Improve Full Stack Development skills
+- Learn Cloud Technologies
+- Create open-source projects
+
+---
+
+## 🌐 Connect
+
+<p align="left">
+
+<a href="https://github.com/JeraldRohithS">GitHub</a> •
+<a href="https://www.linkedin.com/in/jeraldrohith/">LinkedIn</a> •
+<a href="https://www.jerixai.com/">Portfolio</a>
+
+</p>
+
+---
+
+<p align="center">
+
+*"Build consistently. Learn continuously."*
+
+</p>
